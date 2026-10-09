@@ -2,7 +2,7 @@
 
 const int LED = 13;  // LED connected to digital pin 13
 
-void void setup()
+void setup()
 {
     pinMode(LED, OUTPUT);   // sets the digital pin as output
 }
